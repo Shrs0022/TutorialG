@@ -1,3 +1,5 @@
 # TutorialG
-<i>Git  basics</i>
+
+*Git  basics*
+This is my demo git
 
